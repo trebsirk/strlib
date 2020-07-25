@@ -1,0 +1,12 @@
+{
+  "name": "strlib",
+  "version": "1.0.0",
+  "description": "a string reversal library",
+  "main": "index.js",
+  "author": "Kris ",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "ava": "^3.10.1"
+  }
+}
